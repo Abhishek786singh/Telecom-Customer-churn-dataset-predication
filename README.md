@@ -13,5 +13,5 @@ Preventing customer churn is an important business function. It’s also one tha
 6-seaborn
 
 
-![chrun_1](image/chrun_1.jpg)
+![chrun_3](image/chrun_3.png)
 
