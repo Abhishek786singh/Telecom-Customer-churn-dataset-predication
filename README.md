@@ -11,3 +11,7 @@ Preventing customer churn is an important business function. It’s also one tha
 4-sklearn
 5-scipy
 6-seaborn
+
+
+![chrun_1](images/churn_1.png)
+
