@@ -16,5 +16,3 @@ Preventing customer churn is an important business function. It’s also one tha
 ![chrun_3](image/chrun_3.png
 
 
-..
-......
